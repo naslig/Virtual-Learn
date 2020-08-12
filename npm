@@ -1,0 +1,17 @@
+code
+BDD assertion library.
+
+Latest Version: 8.0.2
+hapi-family
+Installation:
+npm: npm install @hapi/code
+
+yarn: yarn add @hapi/code
+
+Module Status:
+Version	License	Node	Dependencies	Travis	End of Life
+8.0.2
+hapi helmet
+github logo
+BSD	12, 14	
+
